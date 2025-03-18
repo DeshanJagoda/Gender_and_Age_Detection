@@ -79,8 +79,7 @@ FaceInsight/
    - Gender
 
 ## Screenshots
-screenshot/interface.png
-screenshot/2nd.png
-screenshot/3rd.png
-screenshot/4th.png
-screenshot/5th.png
+
+| Interface | Prediction Screen | prediction Screen | prediction Screen | prediction Screen |
+|-----------|---------------|--------------|----------------|--------------|
+| <img src="screenshot/interface.png" width="200"> | <img src="screenshot/2nd.png" width="200"> | <img src="screenshot/3rd.png" width="200"> | <img src="screenshot/4th.png" width="200"> | <img src="screenshot/5th.png" width="200"> |
